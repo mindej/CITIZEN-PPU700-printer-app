@@ -1,0 +1,18 @@
+<f 0>Fontas 0
+<f 1>Fontas 1
+<f 2>Fontas 3
+<f 0><s 1 0>Fonto dydis 1 0
+<s 0 1>Fonto dydis 0 1
+<s 1 1>Fonto dydis 1 1<s 0 0>
+<b 1>Boldo testas<b 0>
+<u 1>Pabraukimo testas *1<u 0>
+<u 2>Pabraukimo testas *2<u 0>
+<a 0>Lygiavimas 0
+<a 1>Lygiavimas 1
+<a 2>Lygiavimas 2
+<a 0><f 0>Rodykles testas << ??? viekia
+LT raidziu testas > ąčęėįšųūžĄČĘĖĮŠŲŽ
+<c 6>LT raidziu testas 2 > ąčęėįšųūžĄČĘĖĮŠŲŽ<c 0>
+Barkodas:CODE93
+<h 50 3 1>ABC123
+END 
